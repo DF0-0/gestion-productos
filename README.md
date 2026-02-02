@@ -34,13 +34,13 @@ proyecto_productos/
     └── utilidades.py
 
 
-**Instrucciones de Despliegue y Ejecucion
+## Instrucciones de Despliegue y Ejecucion
 Este sistema ha sido diseñado para ser ejecutado tanto desde un entorno local como mediante clonacion desde repositorio remoto.
 
-Requisitos Previos
+### Requisitos Previos
 Intérprete Python version 3.8 o superior instalado en el sistema.
 
-Opcion A: Ejecucion desde Repositorio Remoto (GitHub)
+### Opcion A: Ejecucion desde Repositorio Remoto (GitHub)
 Para evaluar el proyecto directamente desde el control de versiones:
 
 Abra su terminal o linea de comandos.
@@ -48,7 +48,7 @@ Abra su terminal o linea de comandos.
 Clone el repositorio utilizando Git:
 
 Bash
-git clone https://github.com/DF0-0/gestion-productos.git
+git clone https://github.com/DF0-0/gestion-productos
 Acceda al directorio generado:
 
 Bash
@@ -59,7 +59,8 @@ Ejecute el archivo principal:
 
 Bash
 python3 main.py
-Opcion B: Ejecucion Local (Archivos Fuente)
+
+### Opcion B: Ejecucion Local (Archivos Fuente)
 Si dispone de la carpeta del proyecto en su equipo:
 
 Abra una terminal en la raiz del directorio del proyecto (donde se ubica main.py).
@@ -68,4 +69,4 @@ Ejecute el siguiente comando:
 
 Bash
 python3 main.py
-Nota: En sistemas Windows, si el comando python3 no es reconocido, utilice python main.py.**
+    Nota: En sistemas Windows, si el comando python3 no es reconocido, utilice python main.py.**
