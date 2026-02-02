@@ -34,27 +34,26 @@ Abra su terminal o linea de comandos.
 
 Clone el repositorio utilizando Git:
 
-Bash
 git clone https://github.com/DF0-0/gestion-productos
 Acceda al directorio generado:
-
-Bash
+```text
 cd productos
+```
 (Nota: Verifique el nombre exacto de la carpeta generada tras la clonacion).
 
 Ejecute el archivo principal:
-
-Bash
+```text
 python3 main.py
-
+```
 ### Opcion B: Ejecucion Local (Archivos Fuente)
 Si dispone de la carpeta del proyecto en su equipo:
 
 Abra una terminal en la raiz del directorio del proyecto (donde se ubica main.py).
 
 Ejecute el siguiente comando:
-
+```text
 Bash python3 main.py
+```
 
 Nota: En sistemas Windows, si el comando python3 no es reconocido, utilice python main.py.**
 
