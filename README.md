@@ -55,7 +55,7 @@ Ejecute el siguiente comando:
 ```text
 python3 main.py
 ```
-Nota: En sistemas Windows, si el comando python3 no es reconocido, utilice python main.py.**
+Nota: En sistemas Windows, si el comando python3 no es reconocido, utilice python main.py.
 
 
 ## Estructura del Proyecto
