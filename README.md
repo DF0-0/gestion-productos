@@ -54,7 +54,6 @@ Abra una terminal en la raiz del directorio del proyecto (donde se ubica main.py
 
 Ejecute el siguiente comando:
 
-```text
 Bash python3 main.py
 
 Nota: En sistemas Windows, si el comando python3 no es reconocido, utilice python main.py.**
