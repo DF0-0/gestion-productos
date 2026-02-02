@@ -21,19 +21,6 @@ El proyecto demuestra el dominio de las siguientes estructuras y conceptos:
     * `modulos/gestion.py`: Logica de negocio y manejo de datos.
     * `modulos/utilidades.py`: Funciones transversales y validaciones.
 
-## Estructura del Proyecto
-
-```text
-proyecto_productos/
-├── main.py                  # Punto de entrada (Orquestador)
-├── README.md                # Documentacion tecnica
-└── modulos/                 # Paquete de codigo fuente
-    ├── __init__.py
-    ├── gestion.py
-    ├── interfaz.py
-    └── utilidades.py
-
-
 ## Instrucciones de Despliegue y Ejecucion
 Este sistema ha sido diseñado para ser ejecutado tanto desde un entorno local como mediante clonacion desde repositorio remoto.
 
@@ -67,6 +54,20 @@ Abra una terminal en la raiz del directorio del proyecto (donde se ubica main.py
 
 Ejecute el siguiente comando:
 
-Bash
-python3 main.py
+Bash python3 main.py
     Nota: En sistemas Windows, si el comando python3 no es reconocido, utilice python main.py.**
+
+
+## Estructura del Proyecto
+
+```text
+proyecto_productos/
+├── main.py                  # Punto de entrada (Orquestador)
+├── README.md                # Documentacion tecnica
+└── modulos/                 # Paquete de codigo fuente
+    ├── __init__.py
+    ├── gestion.py
+    ├── interfaz.py
+    └── utilidades.py
+
+
